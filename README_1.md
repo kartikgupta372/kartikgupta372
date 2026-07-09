@@ -204,21 +204,8 @@ Building a production-grade AI-enhanced image processing pipeline for cooled-sen
 
 <br>
 
-#### 🔹 Founder — WebForge Labs
-📍 Remote &nbsp;·&nbsp; 🗓️ [Add Start Date] – Present
 
-Run a 4-person web development studio delivering production websites and light AMC support for Indian local businesses, using a modern AI-assisted build toolkit.
-
-**Scope of Work:**
-- Own client scoping, pricing (₹5,000–₹27,000 one-time + ₹500–1,200/month AMC), and delivery
-- Lead a 4-person team across design, development, and deployment
-- Standardized a build toolkit spanning Bolt.new, v0.dev, Framer, and Cursor
-
-**Skills:** ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-6366F1?style=flat-square) ![Client%20Delivery](https://img.shields.io/badge/-Client%20Delivery-A78BFA?style=flat-square) ![Team%20Leadership](https://img.shields.io/badge/-Team%20Leadership-8B5CF6?style=flat-square)
-
-<br>
-
-#### 🔹 Backend & Database Lead — CPC Platform (JSS CPC/CSE Technical Council)
+#### 🔹 Founding Member — CPC Platform (JSS CPC/CSE Technical Council)
 📍 JSS Academy of Technical Education, Noida &nbsp;·&nbsp; 🗓️ [Add Date Range]
 
 Owned backend and database architecture for a competitive-programming portal built by a 5-engineer student team.
@@ -253,31 +240,6 @@ Owned backend and database architecture for a competitive-programming portal bui
 
 ---
 
-<br>
-
-### 📜 Certifications
-
-**AWS**
-
-![AWS Certification](https://img.shields.io/badge/ADD_YOUR_AWS_CERTIFICATION-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certification](https://img.shields.io/badge/ADD_YOUR_ORACLE_CERTIFICATION-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Certification](https://img.shields.io/badge/ADD_YOUR_NPTEL_CERTIFICATION-8B5CF6?style=for-the-badge)
-
-**Cisco**
-
-![Cisco Certification](https://img.shields.io/badge/ADD_YOUR_CISCO_CERTIFICATION-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<br>
-
----
-
-<br>
 
 ### 💻 Coding Profiles
 
@@ -286,7 +248,6 @@ Owned backend and database architecture for a competitive-programming portal bui
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
 
 </div>
 
@@ -414,7 +375,7 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:00guptakartik2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-gupta-tech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikgupta372)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
