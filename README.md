@@ -43,7 +43,7 @@ Over the last year, my work has moved from standard web development and ML proje
 ### 🛠️ Tech Stack
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 
 #### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux" />
@@ -60,7 +60,7 @@ Over the last year, my work has moved from standard web development and ML proje
 ![YOLO](https://img.shields.io/badge/YOLOv8-8B5CF6?style=flat-square)
 
 #### Cloud, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux,figma" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux" />
 
 ---
 
@@ -162,6 +162,12 @@ current_focus:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikgupta372&layout=compact&theme=transparent&hide_border=true" width="45%"/>
+</p>
+
+### 📈 Daily Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikgupta372&theme=react-dark&hide_border=true&area=true&custom_title=Kartik%20Gupta's%20Contribution%20Activity" width="100%"/>
 </p>
 
 ---
